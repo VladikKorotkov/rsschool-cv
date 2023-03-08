@@ -1,7 +1,7 @@
 
 # Korotkov Vladislav  
 *FRONT END DEVELOPER*
-![Текст с описанием картинки](https://picsum.photos/300/300)
+![Текст с описанием картинки](img.jpeg)
 ---
 ## Personal data
 - __Address__ - Belarus, Minsk
